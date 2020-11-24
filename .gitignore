@@ -9,6 +9,21 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+ 
+#Local Files
+Corona/axios.js 
+Corona/axios2.js
+Corona/axios3.js 
+Corona/Graphql.js 
+Corona/upNavigation.js 
+Corona/Chart.js 
+Corona/FrontPage.js
+Corona/FAQ.js
+Corona/FAb.js 
+Corona/check.js 
+Corona/Card2.js 
+Corona/Cards.js
+Corona/Chart.js
 
 # macOS
 .DS_Store
